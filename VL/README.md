@@ -1,9 +1,7 @@
 # Алгоритм Ванга-Ландау
 
-variables.py - переменные
-
-VangLandau.py - функции
-
-MatrixCreate.py - для начала создаем конфигурационную матрицу, используется в main
-
-main.py - main
+1. variables.py - переменные
+2. VangLandau.py - функции
+3. MatrixCreate.py - для начала создаем конфигурационную матрицу, используется в main
+3. Можно пропустить этот пункт и просто использовать matrix.txt
+5. main.py - main
